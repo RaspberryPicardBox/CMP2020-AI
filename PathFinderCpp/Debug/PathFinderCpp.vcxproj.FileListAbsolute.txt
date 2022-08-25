@@ -1,0 +1,2 @@
+C:\Users\tammy\OneDrive - University of Lincoln\Year2\semester2\AI\Assignment\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\Debug\PathFinderCpp.exe
+C:\Users\tammy\OneDrive - University of Lincoln\Year2\semester2\AI\Assignment\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\Debug\PathFinderCpp.pdb

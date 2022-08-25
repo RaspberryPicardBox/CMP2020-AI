@@ -1,0 +1,3 @@
+﻿  dijkstra.cpp
+D:\Documents\AI Workshop Projects\PathFinderCpp\dijkstra.cpp(181,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PathFinderCpp.vcxproj -> D:\Documents\AI Workshop Projects\PathFinderCpp\Debug\PathFinderCpp.exe
